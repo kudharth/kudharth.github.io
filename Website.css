@@ -30,9 +30,15 @@ h1 {
 }
 .Card2{
     padding:inherit;
-    float: right;
+    float: inherit;
     border-spacing:10px 20px;
     border-style:dashed;
+}
+.Card3 {
+    padding: inherit;
+    float: inherit;
+    border-spacing: 10px 20px;
+    border-style: dashed;
 }
 img{
     object-fit:scale-down;

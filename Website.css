@@ -31,4 +31,9 @@ h1 {
 .Card2{
     padding:inherit;
     float: right;
+    border-spacing:10px 20px;
+    border-style:dashed;
+}
+img{
+    object-fit:scale-down;
 }

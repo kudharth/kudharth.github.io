@@ -30,7 +30,7 @@ h1 {
 }
 .Card2{
     padding:inherit;
-    float: inherit;
+    float: left;
     border-spacing:10px 20px;
     border-style:dashed;
 }

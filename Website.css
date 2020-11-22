@@ -2,3 +2,24 @@
 {
     background-color:powderblue;
 }
+nav {
+    float: left;
+    padding: 15px;
+    background-color: powderblue;
+    height: 720px;
+}
+li a {
+    background-color: yellow;
+    color: blue;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    display: block;
+    margin: 5px;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+h1 {
+    
+    font-size: 150%;
+    display: block;
+}

@@ -5,8 +5,8 @@
 nav {
     float: left;
     padding: 15px;
-    background-color: sandybrown;
-    height: 720px;
+    background-color:cornflowerblue;
+    height: 500px;
 }
 li a {
     background-color: yellow;
@@ -27,4 +27,8 @@ h1 {
     
     font-size: 150%;
     display: block;
+}
+.Card2{
+    padding:inherit;
+    float: right;
 }

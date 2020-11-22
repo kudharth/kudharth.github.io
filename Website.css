@@ -30,11 +30,11 @@ h1 {
 }
 .Card2{
     padding:inherit;
-    float: left;
+    float:none;
     border-spacing:10px 20px;
     border-style:dashed;
 }
-.Card3 {
+.Card3{
     padding: inherit;
     float: inherit;
     border-spacing: 10px 20px;

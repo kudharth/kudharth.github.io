@@ -5,7 +5,7 @@
 nav {
     float: left;
     padding: 15px;
-    background-color: powderblue;
+    background-color: sandybrown;
     height: 720px;
 }
 li a {
@@ -17,6 +17,11 @@ li a {
     margin: 5px;
     border-radius: 20px;
     text-transform: uppercase;
+}
+li a:hover {
+    background-color: #555;
+    cursor: pointer;
+
 }
 h1 {
     

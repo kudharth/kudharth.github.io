@@ -184,9 +184,9 @@ h1 {
     float:none;
     border-spacing:10px 20px;
     border-style:dashed;
-    height: auto;
+    height: inherit;
     widows:inherit;
-    width:auto;
+    width:inherit;
 }
 .Card3{
     padding: inherit;

@@ -195,5 +195,6 @@ h1 {
     border-style: dashed;
 }
 img{
-    object-fit:scale-down;
+    object-fit: contain;
+    object-position:center;
 }
